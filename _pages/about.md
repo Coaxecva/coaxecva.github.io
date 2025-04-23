@@ -7,7 +7,7 @@ subtitle: <a href='https://www.mdanderson.org/research/departments-labs-institut
 profile:
   align: right
   image: prof_pic.jpg
-  image_circular: false # crops the image to make it circular
+  image_circular: true # crops the image to make it circular
   more_info: >
     <p> Staff Scientist, Department of Bioinformatics and Computational Biology, The University of Texas MD Anderson Cancer Center </p>
 
