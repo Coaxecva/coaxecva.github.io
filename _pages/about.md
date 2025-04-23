@@ -2,14 +2,14 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Motto. Etc.
+subtitle: <a href='https://www.mdanderson.org/research/departments-labs-institutes/departments-divisions/bioinformatics-and-computational-biology.html'>Department of Bioinformatics and Computational Biology, MD Anderson Cancer Center</a>. Houston, TX. quangtran@mdanderson.org. Passionate about cancer genomics, computational biology, and translational science.
 
 profile:
   align: right
   image: prof_pic.jpg
   image_circular: false # crops the image to make it circular
   more_info: >
-    <p> Staff Scientist, MD Anderson Cancer Center </p>
+    <p> Staff Scientist, Department of Bioinformatics and Computational Biology, The University of Texas MD Anderson Cancer Center </p>
 
 selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
