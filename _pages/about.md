@@ -10,8 +10,8 @@ profile:
   image_circular: false # crops the image to make it circular
   more_info: >
     <p> MD Anderson Cancer Center </p>
-    <p> 7007 Bertner Ave, Houston </p>
-    <p>Houston, TX 77030 </p>
+    <p> 1MC12.2254, 7007 Bertner Ave </p>
+    <p> Houston, TX 77030 </p>
     <p> quangtran@mdanderson.org </p>
 
 selected_papers: true # includes a list of papers marked as "selected={true}"
