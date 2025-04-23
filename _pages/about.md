@@ -12,8 +12,8 @@ profile:
     <p> MD Anderson Cancer Center </p>
     <p> 1MC12.2254, 7007 Bertner Ave </p>
     <p> Houston, TX 77030 </p>
-    <p> qmtran@mdanderson.org </p>
-    <p> quang.tran@stjude.org </p>
+    <p> 📧 qmtran@mdanderson.org </p>
+    <p> 📨 quang.tran@stjude.org </p>
 
 selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
