@@ -41,7 +41,7 @@ meaningful insights that improve diagnostics, prognostics, and personalized trea
 
 <p>
 Prior to joining MD Anderson Cancer Center, I was a Postdoctoral Fellow in the 
-<a href="https://www.stjude.org/research/departments/computational-biology.html" target="_blank">Department of Computational Biology </a> at St. Jude Children’s Research Hospital (2020–2023), hosted by <a href="https://www.stjude.org/research/labs/ma-lab.html" target="_blank">Dr. Xiaotu Ma</a>. 
+<a href="https://www.stjude.org/research/departments/computational-biology.html" target="_blank">Department of Computational Biology </a> at St. Jude Children’s Research Hospital&nbsp;(2020–2023), hosted by <a href="https://www.stjude.org/research/labs/ma-lab.html" target="_blank">Dr. Xiaotu Ma</a>. 
 I earned my Ph.D. in <a href="https://www.memphis.edu/cs/" target="_blank"> Computer Science from the University of Memphis</a> in May 2020, 
 advised by <a href="https://vtphan.github.io/" target="_blank">Dr. Vinhthuy Phan</a>. 
 During my doctoral training, I completed summer internships at the 
