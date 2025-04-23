@@ -29,8 +29,25 @@ latest_posts:
   limit: 3 # leave blank to include all the blog posts
 ---
 
-Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
+<p>
+I am broadly interested in cancer genomics, computational biology, and algorithmic approaches to precision oncology. 
+My research focuses on developing and applying scalable methods for analyzing genomic and transcriptomic data to 
+identify actionable alterations in aggressive and treatment-resistant cancers. I have worked across both pediatric and 
+adult cancer types—including leukemia, prostate, and esophageal cancer—using deep sequencing, variant modeling, 
+and transcriptome deconvolution to uncover subclonal structures, neoantigens, and therapeutic vulnerabilities. 
+Through method development and interdisciplinary collaboration, I aim to translate genomic complexity into clinically 
+meaningful insights that improve diagnostics, prognostics, and personalized treatment strategies.
+</p>
 
-Put your address / P.O. box / other info right below your picture. You can also disable any of these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
-
-Link to your social media connections, too. This theme is set up to use [Font Awesome icons](https://fontawesome.com/) and [Academicons](https://jpswalsh.github.io/academicons/), like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them.
+<p>
+Prior to joining MD Anderson Cancer Center, I was a Postdoctoral Fellow in the 
+<a href="https://www.stjude.org/research/labs/ma-lab.html" target="_blank">Department of Computational Biology at St. Jude Children’s Research Hospital</a> (2020–2023), 
+hosted by Dr. Xiaotu Ma. I earned my Ph.D. in Computer Science from the University of Memphis in May 2020, 
+advised by Dr. Vinhthuy Phan. During my doctoral training, I completed summer internships at the 
+<a href="https://www.pnnl.gov/advanced-computing-mathematics-and-data-division" target="_blank">Pacific Northwest National Laboratory (PNNL)</a> 
+within the Fundamental & Computational Sciences Directorate, 
+<a href="https://sequencing.roche.com/us/en/home.html" target="_blank">Roche Sequencing Solutions</a> 
+in the Bioinformatics Research & Early Development (BRED) team, and the 
+<a href="https://www.mayo.edu/research/faculty/abyzov-alexej-ph-d/bio-20089449" target="_blank">Mayo Clinic</a> 
+in the Center for Individualized Medicine.
+</p>
