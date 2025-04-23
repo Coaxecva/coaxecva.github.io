@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: I am a Senior Data Scientist working with <a href="https://faculty.mdanderson.org/profiles/wenyi_wang.html" target="_blank">Dr. Wenyi Wang</a> in the <a href="https://www.mdanderson.org/research/departments-labs-institutes/departments-divisions/bioinformatics-and-computational-biology.html" target="_blank">. Houston, TX. Passionate about cancer genomics, computational biology, and translational science.
+subtitle: I am a Senior Data Scientist working with <a href="https://faculty.mdanderson.org/profiles/wenyi_wang.html" target="_blank">Dr. Wenyi Wang</a> in the <a href="https://www.mdanderson.org/research/departments-labs-institutes/departments-divisions/bioinformatics-and-computational-biology.html" target="_blank"> Department of Bioinformatics and Computational Biology </a> at the University of Texas MD Anderson Cancer Center, Houston, TX. Passionate about cancer genomics, computational biology, and translational science.
 
 
 profile:
@@ -41,10 +41,8 @@ meaningful insights that improve diagnostics, prognostics, and personalized trea
 
 <p>
 Prior to joining MD Anderson Cancer Center, I was a Postdoctoral Fellow in the 
-<a href="https://www.stjude.org/research/departments/computational-biology.html" target="_blank">Department of Computational Biology at St. Jude Children’s Research Hospital</a> (2020–2023), 
-hosted by <a href="https://www.stjude.org/research/labs/ma-lab.html" target="_blank">Dr. Xiaotu Ma</a>. 
-I earned my Ph.D. in Computer Science from the 
-<a href="https://www.memphis.edu/cs/" target="_blank">University of Memphis</a> in May 2020, 
+<a href="https://www.stjude.org/research/departments/computational-biology.html" target="_blank">Department of Computational Biology </a> at St. Jude Children’s Research Hospital (2020–2023), hosted by <a href="https://www.stjude.org/research/labs/ma-lab.html" target="_blank">Dr. Xiaotu Ma</a>. 
+I earned my Ph.D. in <a href="https://www.memphis.edu/cs/" target="_blank"> Computer Science from the University of Memphis</a> in May 2020, 
 advised by <a href="https://vtphan.github.io/" target="_blank">Dr. Vinhthuy Phan</a>. 
 During my doctoral training, I completed summer internships at the 
 <a href="https://www.pnnl.gov/advanced-computing-mathematics-and-data-division" target="_blank">Pacific Northwest National Laboratory (PNNL)</a> 
