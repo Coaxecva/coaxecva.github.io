@@ -9,9 +9,8 @@ profile:
   image: prof_pic.jpg
   image_circular: false # crops the image to make it circular
   more_info: >
-    <p> Department of Bioinformatics and Computational Biology </p>
-    <p> The University of Texas MD Anderson Cancer Center </p>
-    <p> 7007 Bertner Ave, Houston, TX 77030 </p>
+    <p> MD Anderson Cancer Center </p>
+    <p> 7007 Bertner Ave, Houston </p>
     <p> quangtran@mdanderson.org </p>
 
 selected_papers: true # includes a list of papers marked as "selected={true}"
