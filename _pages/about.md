@@ -10,9 +10,6 @@ profile:
   image: prof_pic.jpg
   image_circular: false # crops the image to make it circular
   more_info: >
-    <p> MD Anderson Cancer Center </p>
-    <p> 1MC12.2254, 7007 Bertner Ave </p>
-    <p> Houston, TX 77030 </p>
     <p> 📧 qmtran@mdanderson.org </p>
     <p> 📨 quang.tran@stjude.org </p>
 
@@ -31,12 +28,11 @@ latest_posts:
 ---
 
 <p>
-My research focuses on developing and applying scalable methods for analyzing genomic and transcriptomic data to 
-identify actionable alterations in aggressive and treatment-resistant cancers. I have worked across both pediatric and 
-adult cancer types—including leukemia, prostate, and esophageal cancer—using deep sequencing, variant modeling, 
-and transcriptome deconvolution to uncover subclonal structures, neoantigens, and therapeutic vulnerabilities. 
-Through method development and interdisciplinary collaboration, I aim to translate genomic complexity into clinically 
-meaningful insights that improve diagnostics, prognostics, and personalized treatment strategies.
+My research develops scalable algorithms to dissect genomic and transcriptomic data in aggressive, treatment-resistant cancers. 
+Spanning pediatric and adult malignancies—including leukemia, prostate, and esophageal cancer—I leverage deep sequencing, 
+variant modeling, and transcriptome deconvolution to resolve subclonal architecture, identify neoantigens, and uncover 
+therapeutic vulnerabilities. By bridging method development with clinical collaboration, I aim to transform molecular complexity 
+into actionable insights for precision oncology.
 </p>
 
 <p>
