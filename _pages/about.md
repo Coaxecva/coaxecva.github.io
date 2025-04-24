@@ -13,16 +13,16 @@ profile:
     <p> 📧 qmtran@mdanderson.org </p>
     <p> 📨 quang.tran@stjude.org </p>
 
-selected_papers: true # includes a list of papers marked as "selected={true}"
+selected_papers: false # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
 
 announcements:
-  enabled: true # includes a list of news items
+  enabled: flase # includes a list of news items
   scrollable: true # adds a vertical scroll bar if there are more than 3 news items
-  limit: 5 # leave blank to include all the news in the `_news` folder
+  limit: 3 # leave blank to include all the news in the `_news` folder
 
 latest_posts:
-  enabled: true
+  enabled: false
   scrollable: true # adds a vertical scroll bar if there are more than 3 new posts items
   limit: 3 # leave blank to include all the blog posts
 ---
@@ -36,16 +36,19 @@ into actionable insights for precision oncology.
 </p>
 
 <p>
-Prior to joining MD Anderson Cancer Center, I was a Postdoctoral Fellow in the 
-<a href="https://www.stjude.org/research/departments/computational-biology.html" target="_blank">Department of Computational Biology </a> at St. Jude Children’s Research Hospital&nbsp;(2020–2023), hosted by <a href="https://www.stjude.org/research/labs/ma-lab.html" target="_blank">Dr. Xiaotu Ma</a>. 
-I earned my Ph.D. in <a href="https://www.memphis.edu/cs/" target="_blank"> Computer Science from the University of Memphis</a> in May 2020, 
+Prior to joining MD Anderson Cancer Center, I was a Postdoctoral Fellow (2020–2023) in the 
+<a href="https://www.stjude.org/research/departments/computational-biology.html" target="_blank">Department of Computational Biology</a> 
+at St. Jude Children’s Research Hospital, hosted by 
+<a href="https://www.stjude.org/research/labs/ma-lab.html" target="_blank">Dr. Xiaotu Ma</a>. 
+I earned my Ph.D. in <a href="https://www.memphis.edu/cs/" target="_blank">Computer Science from the University of Memphis</a> in May 2020, 
 advised by <a href="https://vtphan.github.io/" target="_blank">Dr. Vinhthuy Phan</a>. 
 During my doctoral training, I completed summer internships at the 
-<a href="https://www.pnnl.gov/advanced-computing-mathematics-and-data-division" target="_blank">Pacific Northwest National Laboratory (PNNL)</a> 
+<a href="https://www.pnnl.gov/advanced-computing-mathematics-and-data-division" target="_blank">Pacific Northwest National Laboratory (PNNL)</a> (2015) 
 within the Fundamental & Computational Sciences Directorate, 
-<a href="https://sequencing.roche.com/us/en/home.html" target="_blank">Roche Sequencing Solutions</a> 
+<a href="https://sequencing.roche.com/us/en/home.html" target="_blank">Roche Sequencing Solutions</a> (2018) 
 in the Bioinformatics Research & Early Development (BRED) team, and the 
-<a href="https://www.mayo.edu/research/centers-programs/center-individualized-medicine" target="_blank">Mayo Clinic</a> 
+<a href="https://www.mayo.edu/research/centers-programs/center-individualized-medicine" target="_blank">Mayo Clinic</a> (2019) 
 in the Center for Individualized Medicine, where I was mentored by 
 <a href="https://abyzovlab.org/" target="_blank">Dr. Alexej Abyzov</a>.
 </p>
+
