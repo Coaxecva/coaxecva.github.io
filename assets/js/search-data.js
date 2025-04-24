@@ -504,6 +504,13 @@ ninja.data = [{
           window.open("mailto:%71%6D%74%72%61%6E@%6D%64%61%6E%64%65%72%73%6F%6E.%6F%72%67", "_blank");
         },
       },{
+        id: 'social-github',
+        title: 'GitHub',
+        section: 'Socials',
+        handler: () => {
+          window.open("https://github.com/Coaxecva", "_blank");
+        },
+      },{
         id: 'social-linkedin',
         title: 'LinkedIn',
         section: 'Socials',
