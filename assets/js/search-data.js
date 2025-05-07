@@ -511,6 +511,13 @@ ninja.data = [{
           window.open("https://www.linkedin.com/in/quang-tran-9a9bb8249", "_blank");
         },
       },{
+        id: 'social-orcid',
+        title: 'ORCID',
+        section: 'Socials',
+        handler: () => {
+          window.open("https://orcid.org/0009-0004-0196-1951", "_blank");
+        },
+      },{
         id: 'social-scholar',
         title: 'Google Scholar',
         section: 'Socials',
