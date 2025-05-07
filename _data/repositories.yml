@@ -1,14 +1,18 @@
 github_users:
-  - torvalds
-  - alshedivat
+  - coaxecva
 
 repo_description_lines_max: 2
 
 github_repos:
-  - alshedivat/al-folio
-  - jekyll/jekyll
-  - twbs/bootstrap
-  - jquery/jquery
-  - FortAwesome/Font-Awesome
-  - mathjax/MathJax
-  - jpswalsh/academicons
+  - Coaxecva/LongAGE
+  - Coaxecva/Unknown-Bacteria-Hunter
+  - Coaxecva/Indel-Analysis
+  - Coaxecva/COMP4030-Design-and-Analysis-of-Algorithms
+  - Coaxecva/COMP7712-Algorithms-Prob-Solv
+  - Coaxecva/COMP7745-Machine-Learning
+  - Coaxecva/COMP7150-Fundamentals-of-Data-Science
+  - Coaxecva/COMP7295-Bio-Algorithm
+  - Coaxecva/COMP8780-Natural-Lang-Processng
+  - Coaxecva/COMP7115-Database-Systems
+  - Coaxecva/Lempel-Ziv-Complexity
+  - Coaxecva/bio-utils
