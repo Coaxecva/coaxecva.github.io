@@ -27,8 +27,8 @@
       "name": "University of Texas MD Anderson Cancer Center",
       "location": "Houston, Texas",
       "position": "Senior Data Scientist",
-      "startDate": "2025-011-01",
-      "endDate": "2023-09-01",
+      "startDate": "2023-09-01",
+      "endDate": "2025-11-01",
       "summary": "Developed CliPP-on-Web to bring subclonal reconstruction to clinicians and quantified compartment-specific plasticity. Mined pre- and post-treatment SNV/CNV profiles from clinical trials to detect emerging resistance, monitor disease trajectory, and link signals to outcomes (response, PFS/OS) and biomarker signatures."
     },
     {
