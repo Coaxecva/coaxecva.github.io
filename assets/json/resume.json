@@ -1,7 +1,7 @@
 {
   "basics": {
     "name": "Quang Tran",
-    "label": "Senior Data Scientist",
+    "title": "Senior Data Scientist",
     "image": "",
     "email": "",
     "phone": "",
@@ -24,14 +24,21 @@
   },
   "work": [
     {
+      "name": "University of Texas MD Anderson Cancer Center",
+      "location": "Houston, Texas",
+      "position": "Senior Data Scientist",
+      "startDate": "2025-011-01",
+      "endDate": "2023-09-01",
+      "summary": "Developed CliPP-on-Web to bring subclonal reconstruction to clinicians and quantified compartment-specific plasticity. Mined pre- and post-treatment SNV/CNV profiles from clinical trials to detect emerging resistance, monitor disease trajectory, and link signals to outcomes (response, PFS/OS) and biomarker signatures."
+    },
+    {
       "name": "St Jude Children's Researh Hosptital",
       "location": "Memphis, Tennessee",
       "position": "Postdoc Research Associate",
       "url": "https://www.stjude.org/research/labs/ma-lab/ma-lab-team.html",
       "startDate": "2020-09-01",
       "endDate": "2023-09-01",
-      "summary": "Teaching at Palmer Physical Laboratory (now 302 Frist Campus Center). While not a professor at Princeton, I associated with the physics professors and continued to give lectures on campus.",
-      "highlights": ["Relativity"]
+      "summary": "Advanced methods for rare-variant detection and oncogenic fusion modeling in pediatric cancers, building deep sequencing and pipeline workflows from design to validation. Partnered with engineering teams to turn large-scale genomics into actionable hypotheses and study endpoints."
     }
   ],
   "volunteer": [
