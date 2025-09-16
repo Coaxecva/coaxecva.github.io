@@ -5,7 +5,7 @@
     "image": "",
     "email": "",
     "phone": "",
-    "url": "https://coaxecva.github.io/",
+    "url": "",
     "summary": "",
     "location": {
       "address": "",
@@ -28,7 +28,7 @@
       "location": "Houston, Texas",
       "position": "Senior Data Scientist",
       "startDate": "2023-09-01",
-      "endDate": "2025-11-01",
+      //"endDate": "2025-11-01",
       "summary": "Developed CliPP-on-Web to bring subclonal reconstruction to clinicians and quantified compartment-specific plasticity. Mined pre- and post-treatment SNV/CNV profiles from clinical trials to detect emerging resistance, monitor disease trajectory, and link signals to outcomes (response, PFS/OS) and biomarker signatures."
     },
     {
@@ -41,7 +41,16 @@
       "summary": "Advanced methods for rare-variant detection and oncogenic fusion modeling in pediatric cancers, building deep sequencing and pipeline workflows from design to validation. Partnered with engineering teams to turn large-scale genomics into actionable hypotheses and study endpoints."
     }
   ],
-  "volunteer": [
+  "Industry Experience": [
+    {
+      "organization": "Mayo Clinic",
+      "location": "Rochester, Minneapolis",
+      "position": "PhD Intern",
+      "startDate": "2014-04-01",
+      "endDate": "2015-07-01",
+      "summary": "Lead organizer for the New York City branch of the People's Climate March, the largest climate march in history.",
+      "highlights": ["Awarded 'Climate Hero' award by Greenpeace for my efforts organizing the march.", "Men of the year 2014 by Time magazine"]
+    },
     {
       "organization": "People's Climate March",
       "location": "Zurich, Switzerland",
