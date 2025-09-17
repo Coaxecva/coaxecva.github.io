@@ -15,3 +15,6 @@ COMP 4151-Introduction to Data Science
 
 ## Fall 2018
 COMP 4270-Opertating Systems
+
+## Spring 2017
+COMP 7745-Machine Learning
