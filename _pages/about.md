@@ -1,6 +1,6 @@
 ---
 layout: about
-title: about
+title: About
 permalink: /
 subtitle: I am a Senior Data Scientist working with <a href="https://faculty.mdanderson.org/profiles/wenyi_wang.html" target="_blank">Dr. Wenyi Wang</a> in the <a href="https://www.mdanderson.org/research/departments-labs-institutes/departments-divisions/bioinformatics-and-computational-biology.html" target="_blank"> Department of Bioinformatics and Computational Biology </a> at the University of Texas MD Anderson Cancer Center, Houston, TX. Passionate about cancer genomics, computational biology, and translational science.
 
