@@ -39,6 +39,33 @@
       "startDate": "2020-09-01",
       "endDate": "2023-09-01",
       "summary": "Advanced methods for rare-variant detection and oncogenic fusion modeling in pediatric cancers, building deep sequencing and pipeline workflows from design to validation. Partnered with engineering teams to turn large-scale genomics into actionable hypotheses and study endpoints."
+    },
+    {
+      "name": "Mayo Clinic",
+      "location": "Rochester, Minnesota",
+      "position": "PhD Intern - Informatics Specialist",
+      "url": "",
+      "startDate": "2019-08-01",
+      "endDate": "2019-06-01",
+      "summary": "Implemented Hirschberg’s approach using linear space for AGE: Alignment with Gap Excision."
+    },
+    {
+      "name": "Roche Sequencing Solutions",
+      "location": "Belmont, California",
+      "position": "Bioinformatics Intern",
+      "url": "",
+      "startDate": "2018-08-01",
+      "endDate": "2018-06-01",
+      "summary": "Characterized long read aligners and sequencing bias in single-molecule sequencing data."
+    },
+    {
+      "name": "Pacific Northwest National Laboratory",
+      "location": "Richland, Washington",
+      "position": "Research Intern",
+      "url": "",
+      "startDate": "2018-08-01",
+      "endDate": "2018-06-01",
+      "summary": "Characterized long read aligners and sequencing bias in single-molecule sequencing data."
     }
   ],
   "education": [
@@ -48,8 +75,8 @@
       "url": "https://cs.memphis.edu/",
       "area": "Computer Science",
       "studyType": "PhD",
-      "startDate": "2014-05-01",
-      "endDate": "2020-08-01"
+      "startDate": "2014-05-05",
+      "endDate": "2020-08-05"
     },
     {
       "institution": "University of Memphis",
@@ -65,7 +92,7 @@
       "location": "Vietnam",
       "url": "https://en.hcmus.edu.vn/",
       "area": "Computer Science",
-      "studyType": "MS",
+      "studyType": "BS",
       "startDate": "2006-08-01",
       "endDate": "2011-10-01"
     }
