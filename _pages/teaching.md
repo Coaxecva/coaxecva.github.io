@@ -2,19 +2,19 @@
 layout: page
 permalink: /teaching/
 title: teaching
-description: Courses taught..
+description: Courses taught.
 nav: true
 nav_order: 7
 ---
 
 ## Spring 2020
-COMP 7517-Human Computer Interaction
+COMP 7517 Human Computer Interaction
 
 ## Fall 2019
-COMP 4151-Introduction to Data Science
+COMP 4151 Introduction to Data Science
 
 ## Fall 2018
-COMP 4270-Opertating Systems
+COMP 4270 Opertating Systems
 
 ## Spring 2017
-COMP 7745-Machine Learning
+COMP 7745 Machine Learning
