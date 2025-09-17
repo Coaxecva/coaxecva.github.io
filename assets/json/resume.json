@@ -85,7 +85,7 @@
       "area": "Computer Science",
       "studyType": "MS",
       "startDate": "2014-05-01",
-      "endDate": "2017-08-01"
+      "endDate": "2017-05-01"
     },
     {
       "institution": "Vietnam National University",
@@ -99,11 +99,25 @@
   ],
   "awards": [
     {
-      "title": "Nobel Prize in Physics",
-      "date": "1921-11-01",
-      "awarder": "Royal Swedish Academy of Sciences",
-      "url": "https://www.nobelprize.org/prizes/physics/1921/einstein/biographical/",
-      "summary": "The Nobel Prizes are five separate prizes that, according to Alfred Nobel's will of 1895, are awarded to 'those who, during the preceding year, have conferred the greatest benefit to humankind.'"
+      "title": "Post-Doctoral Award (IRTA) Fellowship",
+      "date": "2020-08-01",
+      "awarder": "National Institute of Diabetes and Digestive and Kidney Diseases (NIDDK)",
+      "url": "https://www.niddk.nih.gov/",
+      "summary": "2020-2022"
+    },
+    {
+      "title": "3rd Place Oral Presentation",
+      "date": "2018-08-01",
+      "awarder": "University of Memphis, Department of Computer Science",
+      "url": "",
+      "summary": "14th Annual CS Research Day"
+    },
+    {
+      "title": "Young Scientist Excellence Award",
+      "date": "2017-05-01",
+      "awarder": "Midsouth Computational Biology And Bioinformatics Society (MCBIOS)",
+      "url": "",
+      "summary": ""
     }
   ],
   "publications": [
