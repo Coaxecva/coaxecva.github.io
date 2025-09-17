@@ -2,11 +2,16 @@
 layout: page
 permalink: /teaching/
 title: teaching
-description: Materials for courses you taught. Replace this text with your description.
+description: Courses taught..
 nav: true
-nav_order: 6
+nav_order: 7
 ---
 
-For now, this page is assumed to be a static description of your courses. You can convert it to a collection similar to `_projects/` so that you can have a dedicated page for each course.
+## Spring 2020
+COMP 7517-Human Computer Interaction
 
-Organize your courses by years, topics, or universities, however you like!
+## Fall 2019
+COMP 4151-Introduction to Data Science
+
+## Fall 2018
+COMP 4270-Opertating Systems
