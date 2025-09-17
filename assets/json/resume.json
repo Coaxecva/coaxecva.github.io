@@ -39,40 +39,36 @@
       "startDate": "2020-09-01",
       "endDate": "2023-09-01",
       "summary": "Advanced methods for rare-variant detection and oncogenic fusion modeling in pediatric cancers, building deep sequencing and pipeline workflows from design to validation. Partnered with engineering teams to turn large-scale genomics into actionable hypotheses and study endpoints."
-    }
-  ],
-  "Industry Experience": [
-    {
-      "organization": "Mayo Clinic",
-      "location": "Rochester, Minneapolis",
-      "position": "PhD Intern",
-      "startDate": "2014-04-01",
-      "endDate": "2015-07-01",
-      "summary": "Lead organizer for the New York City branch of the People's Climate March, the largest climate march in history.",
-      "highlights": ["Awarded 'Climate Hero' award by Greenpeace for my efforts organizing the march.", "Men of the year 2014 by Time magazine"]
     },
-    {
-      "organization": "People's Climate March",
-      "location": "Zurich, Switzerland",
-      "position": "Lead Organizer",
-      "url": "https://example.com",
-      "startDate": "2014-04-01",
-      "endDate": "2015-07-01",
-      "summary": "Lead organizer for the New York City branch of the People's Climate March, the largest climate march in history.",
-      "highlights": ["Awarded 'Climate Hero' award by Greenpeace for my efforts organizing the march.", "Men of the year 2014 by Time magazine"]
-    }
+    
   ],
   "education": [
     {
-      "institution": "University of Zurich, Zurich, Switzerland",
-      "location": "Zurich, Switzerland",
-      "url": "https://www.uzh.ch/",
-      "area": "Software Development",
+      "institution": "University of Memphis",
+      "location": "Memphis, Tennessee",
+      "url": "https://cs.memphis.edu/",
+      "area": "Computer Science",
       "studyType": "PhD",
-      "startDate": "1905-01-01",
-      "endDate": "1905-01-01",
-      "score": "10",
-      "courses": ["Theory of Relativity"]
+      "startDate": "2014-05-01",
+      "endDate": "2020-08-01"
+    },
+    {
+      "institution": "University of Memphis",
+      "location": "Memphis, Tennessee",
+      "url": "https://cs.memphis.edu/",
+      "area": "Computer Science",
+      "studyType": "MS",
+      "startDate": "2014-05-01",
+      "endDate": "2017-08-01"
+    },
+    {
+      "institution": "Vietnam National University",
+      "location": "Vietnam",
+      "url": "https://en.hcmus.edu.vn/",
+      "area": "Computer Science",
+      "studyType": "MS",
+      "startDate": "2006-08-01",
+      "endDate": "2011-10-01"
     }
   ],
   "awards": [
