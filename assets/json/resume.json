@@ -45,8 +45,8 @@
       "location": "Rochester, Minnesota",
       "position": "PhD Intern - Informatics Specialist",
       "url": "",
-      "startDate": "2019-08-01",
-      "endDate": "2019-06-01",
+      "startDate": "2019-06-01",
+      "endDate": "2019-08-01",
       "summary": "Implemented Hirschberg’s approach using linear space for AGE: Alignment with Gap Excision."
     },
     {
@@ -54,8 +54,8 @@
       "location": "Belmont, California",
       "position": "Bioinformatics Intern",
       "url": "",
-      "startDate": "2018-08-01",
-      "endDate": "2018-06-01",
+      "startDate": "2018-05-01",
+      "endDate": "2018-08-01",
       "summary": "Characterized long read aligners and sequencing bias in single-molecule sequencing data."
     },
     {
@@ -63,8 +63,8 @@
       "location": "Richland, Washington",
       "position": "Research Intern",
       "url": "",
-      "startDate": "2018-08-01",
-      "endDate": "2018-06-01",
+      "startDate": "2018-06-01",
+      "endDate": "2018-08-01",
       "summary": "Characterized long read aligners and sequencing bias in single-molecule sequencing data."
     }
   ],
