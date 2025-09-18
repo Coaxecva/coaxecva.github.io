@@ -65,7 +65,7 @@
       "url": "",
       "startDate": "2015-06-01",
       "endDate": "2015-08-01",
-      "summary": "Characterized long read aligners and sequencing bias in single-molecule sequencing data."
+      "summary": "Customized HElib to apply fully homomorphic encryption scheme in distributed systems."
     }
   ],
   "education": [
